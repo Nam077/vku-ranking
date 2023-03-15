@@ -5,7 +5,25 @@
 - [Refresh bảng xếp hạng](#refresh-bang-xep-hang)
 
 ## Hướng dẫn sử dụng API
-
+<a name="thu-vien"></a>
+### Thư Viện Sử dụng
+#### CSS
+```Html
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap5.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+```
+#### JS
+```Html
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.1.2/dist/axios.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="//cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="gameScore.js"></script>
+    <script src="main.js"></script>
+```
 <a name="lay-thong-tin-bang-xep-hang"></a>
 ### Lấy thông tin bảng xếp hạng
 - Di chuyển vào file `gameScore.js`
