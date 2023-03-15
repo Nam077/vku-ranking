@@ -13,7 +13,8 @@
 - Nếu muốn lấy thông tin của 1 game cụ thể thì thay `nameGameRanking` bằng tên game cần lấy
 - Nếu muốn lấy thông tin của tất cả các game thì thay `nameGameRanking` bằng `all`
 - Lưu ý cần thêm tất cả các thư viện trong file `index.html`
-  <a name="huong-dan-su-dung-api"></a>
+
+<a name="them-diem-cho-nguoi-choi"></a>
 ### Lấy thông tin người chơi
 - Sử dụng function `getInforGamePlayer(nameGame, phone)` trong file `main.js`
 - Thay `nameGame` bằng tên game của bạn
