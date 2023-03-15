@@ -14,7 +14,7 @@
 - Nếu muốn lấy thông tin của tất cả các game thì thay `nameGameRanking` bằng `all`
 - Lưu ý cần thêm tất cả các thư viện trong file `index.html`
 
-<a name="them-diem-cho-nguoi-choi"></a>
+<a name="lay-thong-tin-nguoi-choi"></a>
 ### Lấy thông tin người chơi
 - Sử dụng function `getInforGamePlayer(nameGame, phone)` trong file `main.js`
 - Thay `nameGame` bằng tên game của bạn
