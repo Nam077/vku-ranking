@@ -7,7 +7,7 @@
 
 ## Hướng dẫn sử dụng API
 
-### Lấy thông tin bảng xếp hạng
+### Lấy thông tin bảng xếp hạng {#huong-dan-su-dung-api}
 - Di chuyển vào file `gameScore.js`
 - Thay `nameGameRanking` bằng tên game của bạn
 - Nếu muốn lấy thông tin của 1 game cụ thể thì thay `nameGameRanking` bằng tên game cần lấy
